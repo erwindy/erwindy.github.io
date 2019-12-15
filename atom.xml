@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-14T18:10:17.832Z</updated>
+  <updated>2019-12-15T14:20:05.166Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>categories</title>
+    <link href="http://yoursite.com/2019/12/15/categories/"/>
+    <id>http://yoursite.com/2019/12/15/categories/</id>
+    <published>2019-12-15T14:20:05.000Z</published>
+    <updated>2019-12-15T14:20:05.166Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>&#39;指环王世界观&#39;</title>
@@ -60,7 +75,7 @@
     <link href="http://yoursite.com/2019/12/13/hello-world/"/>
     <id>http://yoursite.com/2019/12/13/hello-world/</id>
     <published>2019-12-13T07:21:04.216Z</published>
-    <updated>2019-12-13T07:21:04.216Z</updated>
+    <updated>2019-12-15T14:34:35.278Z</updated>
     
     <summary type="html">
     
@@ -75,6 +90,10 @@
     </summary>
     
     
+      <category term="study" scheme="http://yoursite.com/categories/study/"/>
+    
+    
+      <category term="first" scheme="http://yoursite.com/tags/first/"/>
     
   </entry>
   
