@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-12-15T14:20:05.166Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://erwindy.github.io/"/>
+  <updated>2019-12-15T15:30:00.964Z</updated>
+  <id>https://erwindy.github.io/</id>
   
   <author>
     <name>erwin</name>
@@ -17,26 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>categories</title>
-    <link href="http://yoursite.com/2019/12/15/categories/"/>
-    <id>http://yoursite.com/2019/12/15/categories/</id>
-    <published>2019-12-15T14:20:05.000Z</published>
-    <updated>2019-12-15T14:20:05.166Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>&#39;指环王世界观&#39;</title>
-    <link href="http://yoursite.com/2019/12/15/%E6%8C%87%E7%8E%AF%E7%8E%8B%E4%B8%96%E7%95%8C%E8%A7%82/"/>
-    <id>http://yoursite.com/2019/12/15/%E6%8C%87%E7%8E%AF%E7%8E%8B%E4%B8%96%E7%95%8C%E8%A7%82/</id>
+    <link href="https://erwindy.github.io/2019/12/15/%E6%8C%87%E7%8E%AF%E7%8E%8B%E4%B8%96%E7%95%8C%E8%A7%82/"/>
+    <id>https://erwindy.github.io/2019/12/15/%E6%8C%87%E7%8E%AF%E7%8E%8B%E4%B8%96%E7%95%8C%E8%A7%82/</id>
     <published>2019-12-14T17:06:49.000Z</published>
-    <updated>2019-12-14T18:10:17.832Z</updated>
+    <updated>2019-12-15T15:30:00.964Z</updated>
     
     <summary type="html">
     
@@ -52,13 +37,21 @@
     </summary>
     
     
+      <category term="小说" scheme="https://erwindy.github.io/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+      <category term="世界设定" scheme="https://erwindy.github.io/categories/%E5%B0%8F%E8%AF%B4/%E4%B8%96%E7%95%8C%E8%AE%BE%E5%AE%9A/"/>
+    
+    
+      <category term="小说" scheme="https://erwindy.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+      <category term="世界设定" scheme="https://erwindy.github.io/tags/%E4%B8%96%E7%95%8C%E8%AE%BE%E5%AE%9A/"/>
     
   </entry>
   
   <entry>
     <title>hexo_first</title>
-    <link href="http://yoursite.com/2019/12/13/hexo-first/"/>
-    <id>http://yoursite.com/2019/12/13/hexo-first/</id>
+    <link href="https://erwindy.github.io/2019/12/13/hexo-first/"/>
+    <id>https://erwindy.github.io/2019/12/13/hexo-first/</id>
     <published>2019-12-13T08:36:00.000Z</published>
     <updated>2019-12-13T08:47:53.916Z</updated>
     
@@ -72,10 +65,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/12/13/hello-world/"/>
-    <id>http://yoursite.com/2019/12/13/hello-world/</id>
+    <link href="https://erwindy.github.io/2019/12/13/hello-world/"/>
+    <id>https://erwindy.github.io/2019/12/13/hello-world/</id>
     <published>2019-12-13T07:21:04.216Z</published>
-    <updated>2019-12-15T14:34:35.278Z</updated>
+    <updated>2019-12-15T15:25:26.846Z</updated>
     
     <summary type="html">
     
@@ -90,10 +83,12 @@
     </summary>
     
     
-      <category term="study" scheme="http://yoursite.com/categories/study/"/>
+      <category term="学习" scheme="https://erwindy.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="first" scheme="http://yoursite.com/tags/first/"/>
+      <category term="centOS" scheme="https://erwindy.github.io/tags/centOS/"/>
+    
+      <category term="tomcat" scheme="https://erwindy.github.io/tags/tomcat/"/>
     
   </entry>
   
