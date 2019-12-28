@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://erwindy.github.io/"/>
-  <updated>2019-12-28T17:28:10.674Z</updated>
+  <updated>2019-12-28T18:29:58.026Z</updated>
   <id>https://erwindy.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>markdown语法总结（不断更新）</title>
+    <title>markdown 语法总结（不断更新）</title>
     <link href="https://erwindy.github.io/2019/12/29/markdown%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%8D%E6%96%AD%E6%9B%B4%E6%96%B0%EF%BC%89/"/>
     <id>https://erwindy.github.io/2019/12/29/markdown%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%8D%E6%96%AD%E6%9B%B4%E6%96%B0%EF%BC%89/</id>
     <published>2019-12-28T18:15:28.730Z</published>
-    <updated>2019-12-28T17:28:10.674Z</updated>
+    <updated>2019-12-28T18:29:58.026Z</updated>
     
     <summary type="html">
     
@@ -37,14 +37,16 @@
     
     
     
+      <category term="markdown" scheme="https://erwindy.github.io/tags/markdown/"/>
+    
   </entry>
   
   <entry>
-    <title>html中特殊符号及其编码</title>
+    <title>html中的特殊符号极其编码（可用于markdown中）</title>
     <link href="https://erwindy.github.io/2019/12/29/html%E4%B8%AD%E7%89%B9%E6%AE%8A%E7%AC%A6%E5%8F%B7%E5%8F%8A%E5%85%B6%E7%BC%96%E7%A0%81/"/>
     <id>https://erwindy.github.io/2019/12/29/html%E4%B8%AD%E7%89%B9%E6%AE%8A%E7%AC%A6%E5%8F%B7%E5%8F%8A%E5%85%B6%E7%BC%96%E7%A0%81/</id>
     <published>2019-12-28T18:15:28.728Z</published>
-    <updated>2019-12-28T17:01:31.278Z</updated>
+    <updated>2019-12-28T18:29:58.026Z</updated>
     
     <summary type="html">
     
@@ -60,14 +62,18 @@
     
     
     
+      <category term="markdown" scheme="https://erwindy.github.io/tags/markdown/"/>
+    
+      <category term="html" scheme="https://erwindy.github.io/tags/html/"/>
+    
   </entry>
   
   <entry>
-    <title>吴恩达机器学习视频笔记</title>
+    <title>吴恩达机器学习学习笔记</title>
     <link href="https://erwindy.github.io/2019/12/29/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E7%AC%94%E8%AE%B0/"/>
     <id>https://erwindy.github.io/2019/12/29/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E7%AC%94%E8%AE%B0/</id>
     <published>2019-12-28T18:15:28.718Z</published>
-    <updated>2019-12-28T15:49:21.226Z</updated>
+    <updated>2019-12-28T18:29:58.026Z</updated>
     
     <summary type="html">
     
@@ -82,6 +88,8 @@
     </summary>
     
     
+    
+      <category term="机器学习" scheme="https://erwindy.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
