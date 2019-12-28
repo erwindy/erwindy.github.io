@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://erwindy.github.io/"/>
-  <updated>2019-12-20T04:33:55.813Z</updated>
+  <updated>2019-12-28T17:28:10.674Z</updated>
   <id>https://erwindy.github.io/</id>
   
   <author>
@@ -17,11 +17,80 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>markdown语法总结（不断更新）</title>
+    <link href="https://erwindy.github.io/2019/12/29/markdown%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%8D%E6%96%AD%E6%9B%B4%E6%96%B0%EF%BC%89/"/>
+    <id>https://erwindy.github.io/2019/12/29/markdown%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%8D%E6%96%AD%E6%9B%B4%E6%96%B0%EF%BC%89/</id>
+    <published>2019-12-28T18:15:28.730Z</published>
+    <updated>2019-12-28T17:28:10.674Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;markdown-语法总结（不断更新）&quot;&gt;&lt;a href=&quot;#markdown-语法总结（不断更新）&quot; class=&quot;headerlink&quot; title=&quot;##markdown 语法总结（不断更新）&quot;&gt;&lt;/a&gt;##markdown
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>html中特殊符号及其编码</title>
+    <link href="https://erwindy.github.io/2019/12/29/html%E4%B8%AD%E7%89%B9%E6%AE%8A%E7%AC%A6%E5%8F%B7%E5%8F%8A%E5%85%B6%E7%BC%96%E7%A0%81/"/>
+    <id>https://erwindy.github.io/2019/12/29/html%E4%B8%AD%E7%89%B9%E6%AE%8A%E7%AC%A6%E5%8F%B7%E5%8F%8A%E5%85%B6%E7%BC%96%E7%A0%81/</id>
+    <published>2019-12-28T18:15:28.728Z</published>
+    <updated>2019-12-28T17:01:31.278Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;html中的特殊符号极其编码（可用于markdown中）&quot;&gt;&lt;a href=&quot;#html中的特殊符号极其编码（可用于markdown中）&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>吴恩达机器学习视频笔记</title>
+    <link href="https://erwindy.github.io/2019/12/29/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E7%AC%94%E8%AE%B0/"/>
+    <id>https://erwindy.github.io/2019/12/29/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E7%AC%94%E8%AE%B0/</id>
+    <published>2019-12-28T18:15:28.718Z</published>
+    <updated>2019-12-28T15:49:21.226Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;吴恩达机器学习学习笔记&quot;&gt;&lt;a href=&quot;#吴恩达机器学习学习笔记&quot; class=&quot;headerlink&quot; title=&quot;吴恩达机器学习学习笔记&quot;&gt;&lt;/a&gt;吴恩达机器学习学习笔记&lt;/h2&gt;&lt;p&gt;一、机器学习分类&lt;br&gt;  1 监督学习&lt;br&gt;    1.1
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>明天就要考研啦！！！</title>
-    <link href="https://erwindy.github.io/2019/12/20/2019.12.20-%E8%80%83%E7%A0%94%E5%89%8D%E4%B8%80%E5%A4%A9/"/>
-    <id>https://erwindy.github.io/2019/12/20/2019.12.20-%E8%80%83%E7%A0%94%E5%89%8D%E4%B8%80%E5%A4%A9/</id>
-    <published>2019-12-20T04:33:55.388Z</published>
-    <updated>2019-12-20T04:33:55.813Z</updated>
+    <link href="https://erwindy.github.io/2019/12/29/2019.12.20-%E8%80%83%E7%A0%94%E5%89%8D%E4%B8%80%E5%A4%A9/"/>
+    <id>https://erwindy.github.io/2019/12/29/2019.12.20-%E8%80%83%E7%A0%94%E5%89%8D%E4%B8%80%E5%A4%A9/</id>
+    <published>2019-12-28T18:13:59.980Z</published>
+    <updated>2019-12-20T04:33:56.000Z</updated>
     
     <summary type="html">
     
@@ -42,11 +111,36 @@
   </entry>
   
   <entry>
+    <title>Hello World</title>
+    <link href="https://erwindy.github.io/2019/12/29/hello-world/"/>
+    <id>https://erwindy.github.io/2019/12/29/hello-world/</id>
+    <published>2019-12-28T17:43:32.919Z</published>
+    <updated>2019-12-16T01:36:38.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="https://erwindy.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>名著摘抄</title>
     <link href="https://erwindy.github.io/2019/12/17/literature-extract/"/>
     <id>https://erwindy.github.io/2019/12/17/literature-extract/</id>
     <published>2019-12-17T15:04:41.000Z</published>
-    <updated>2019-12-20T04:34:24.387Z</updated>
+    <updated>2019-12-20T04:34:26.000Z</updated>
     
     <summary type="html">
     
@@ -74,7 +168,7 @@
     <link href="https://erwindy.github.io/2019/12/15/%E6%8C%87%E7%8E%AF%E7%8E%8B%E4%B8%96%E7%95%8C%E8%A7%82/"/>
     <id>https://erwindy.github.io/2019/12/15/%E6%8C%87%E7%8E%AF%E7%8E%8B%E4%B8%96%E7%95%8C%E8%A7%82/</id>
     <published>2019-12-14T17:06:49.000Z</published>
-    <updated>2019-12-16T01:25:22.392Z</updated>
+    <updated>2019-12-16T01:25:24.000Z</updated>
     
     <summary type="html">
     
@@ -100,7 +194,7 @@
     <link href="https://erwindy.github.io/2019/12/13/hexo-first/"/>
     <id>https://erwindy.github.io/2019/12/13/hexo-first/</id>
     <published>2019-12-13T08:36:00.000Z</published>
-    <updated>2019-12-16T01:37:04.910Z</updated>
+    <updated>2019-12-16T01:37:06.000Z</updated>
     
     <summary type="html">
     
@@ -111,31 +205,6 @@
     
     
       <category term="学习" scheme="https://erwindy.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://erwindy.github.io/2019/12/13/hello-world/"/>
-    <id>https://erwindy.github.io/2019/12/13/hello-world/</id>
-    <published>2019-12-13T07:21:04.216Z</published>
-    <updated>2019-12-16T01:36:36.747Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="学习" scheme="https://erwindy.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
     
   </entry>
   
