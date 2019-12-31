@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://erwindy.github.io/"/>
-  <updated>2019-12-28T18:29:58.026Z</updated>
+  <updated>2019-12-29T07:21:06.412Z</updated>
   <id>https://erwindy.github.io/</id>
   
   <author>
@@ -17,21 +17,68 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>前端新技术</title>
+    <link href="https://erwindy.github.io/2019/12/29/%E5%89%8D%E7%AB%AF%E6%96%B0%E6%8A%80%E6%9C%AF/"/>
+    <id>https://erwindy.github.io/2019/12/29/%E5%89%8D%E7%AB%AF%E6%96%B0%E6%8A%80%E6%9C%AF/</id>
+    <published>2019-12-29T07:04:38.274Z</published>
+    <updated>2019-12-29T07:21:06.412Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;前端新技术&quot;&gt;&lt;a href=&quot;#前端新技术&quot; class=&quot;headerlink&quot; title=&quot;前端新技术&quot;&gt;&lt;/a&gt;前端新技术&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/xiangzhihong8/article/details/103233487&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://blog.csdn.net/xiangzhihong8/article/details/103233487&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;serverless&lt;br&gt;是一种构建和管理基于微服务架构的完整流程，允许你在服务部署级别而不是服务器部署级别来管理你的应用部署。它与传统架构的不同之处在于，完全由第三方管理，由事件触发，存在于无状态（Stateless）、暂存（可能只存在于一次调用的过程中）计算容器内。
+    
+    </summary>
+    
+    
+    
+      <category term="杂记" scheme="https://erwindy.github.io/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信小程序特性</title>
+    <link href="https://erwindy.github.io/2019/12/29/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%89%B9%E6%80%A7%E8%AE%B0%E5%BD%95/"/>
+    <id>https://erwindy.github.io/2019/12/29/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%89%B9%E6%80%A7%E8%AE%B0%E5%BD%95/</id>
+    <published>2019-12-29T04:03:04.000Z</published>
+    <updated>2019-12-29T07:21:06.412Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;微信小程序特性&quot;&gt;&lt;a href=&quot;#微信小程序特性&quot; class=&quot;headerlink&quot; title=&quot;微信小程序特性&quot;&gt;&lt;/a&gt;微信小程序特性&lt;/h2&gt;&lt;hr&gt;
+&lt;h1 id=&quot;1-微信小程序采用双线程模型：&quot;&gt;&lt;a href=&quot;#1-微信小程序采用双线程模型：&quot; class=&quot;headerlink&quot; title=&quot;1. 微信小程序采用双线程模型：&quot;&gt;&lt;/a&gt;1. 微信小程序采用双线程模型：&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;渲染层：负责渲染工作&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;逻辑层：负责执行逻辑代码&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;通过微信客户端交换数据。逻辑层执行逻辑代码，将数据通过setData发送到渲染层；渲染层解析WXML和WXSS，结合数据渲染出页面。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="微信小程序" scheme="https://erwindy.github.io/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="“面试”" scheme="https://erwindy.github.io/tags/%E2%80%9C%E9%9D%A2%E8%AF%95%E2%80%9D/"/>
+    
+  </entry>
+  
+  <entry>
     <title>markdown 语法总结（不断更新）</title>
     <link href="https://erwindy.github.io/2019/12/29/markdown%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%8D%E6%96%AD%E6%9B%B4%E6%96%B0%EF%BC%89/"/>
     <id>https://erwindy.github.io/2019/12/29/markdown%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%8D%E6%96%AD%E6%9B%B4%E6%96%B0%EF%BC%89/</id>
     <published>2019-12-28T18:15:28.730Z</published>
-    <updated>2019-12-28T18:29:58.026Z</updated>
+    <updated>2019-12-29T07:21:06.412Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;markdown-语法总结（不断更新）&quot;&gt;&lt;a href=&quot;#markdown-语法总结（不断更新）&quot; class=&quot;headerlink&quot; title=&quot;##markdown 语法总结（不断更新）&quot;&gt;&lt;/a&gt;##markdown
-        
-      
+      &lt;h2 id=&quot;markdown-语法总结（不断更新）&quot;&gt;&lt;a href=&quot;#markdown-语法总结（不断更新）&quot; class=&quot;headerlink&quot; title=&quot;markdown 语法总结（不断更新）&quot;&gt;&lt;/a&gt;markdown 语法总结（不断更新）&lt;/h2&gt;&lt;hr&gt;
+&lt;h1 id=&quot;1-引用&quot;&gt;&lt;a href=&quot;#1-引用&quot; class=&quot;headerlink&quot; title=&quot;1. 引用&quot;&gt;&lt;/a&gt;1. 引用&lt;/h1&gt;&lt;p&gt;   &amp;gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;例子&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
@@ -46,17 +93,12 @@
     <link href="https://erwindy.github.io/2019/12/29/html%E4%B8%AD%E7%89%B9%E6%AE%8A%E7%AC%A6%E5%8F%B7%E5%8F%8A%E5%85%B6%E7%BC%96%E7%A0%81/"/>
     <id>https://erwindy.github.io/2019/12/29/html%E4%B8%AD%E7%89%B9%E6%AE%8A%E7%AC%A6%E5%8F%B7%E5%8F%8A%E5%85%B6%E7%BC%96%E7%A0%81/</id>
     <published>2019-12-28T18:15:28.728Z</published>
-    <updated>2019-12-28T18:29:58.026Z</updated>
+    <updated>2019-12-29T07:21:06.412Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;html中的特殊符号极其编码（可用于markdown中）&quot;&gt;&lt;a href=&quot;#html中的特殊符号极其编码（可用于markdown中）&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;h2 id=&quot;html中的特殊符号极其编码（可用于markdown中）&quot;&gt;&lt;a href=&quot;#html中的特殊符号极其编码（可用于markdown中）&quot; class=&quot;headerlink&quot; title=&quot;html中的特殊符号极其编码（可用于markdown中）&quot;&gt;&lt;/a&gt;html中的特殊符号极其编码（可用于markdown中）&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;特殊符号、说明及其编码&lt;/p&gt;
     
     </summary>
     
@@ -73,17 +115,12 @@
     <link href="https://erwindy.github.io/2019/12/29/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E7%AC%94%E8%AE%B0/"/>
     <id>https://erwindy.github.io/2019/12/29/%E5%90%B4%E6%81%A9%E8%BE%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%A7%86%E9%A2%91%E7%AC%94%E8%AE%B0/</id>
     <published>2019-12-28T18:15:28.718Z</published>
-    <updated>2019-12-28T18:29:58.026Z</updated>
+    <updated>2019-12-29T07:21:06.413Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h2 id=&quot;吴恩达机器学习学习笔记&quot;&gt;&lt;a href=&quot;#吴恩达机器学习学习笔记&quot; class=&quot;headerlink&quot; title=&quot;吴恩达机器学习学习笔记&quot;&gt;&lt;/a&gt;吴恩达机器学习学习笔记&lt;/h2&gt;&lt;p&gt;一、机器学习分类&lt;br&gt;  1 监督学习&lt;br&gt;    1.1
-        
-      
+      &lt;h3 id=&quot;吴恩达机器学习学习笔记&quot;&gt;&lt;a href=&quot;#吴恩达机器学习学习笔记&quot; class=&quot;headerlink&quot; title=&quot;吴恩达机器学习学习笔记&quot;&gt;&lt;/a&gt;吴恩达机器学习学习笔记&lt;/h3&gt;&lt;h2 id=&quot;一、机器学习分类&quot;&gt;&lt;a href=&quot;#一、机器学习分类&quot; class=&quot;headerlink&quot; title=&quot;一、机器学习分类&quot;&gt;&lt;/a&gt;一、机器学习分类&lt;/h2&gt;&lt;h1 id=&quot;1-监督学习&quot;&gt;&lt;a href=&quot;#1-监督学习&quot; class=&quot;headerlink&quot; title=&quot;1 监督学习&quot;&gt;&lt;/a&gt;1 监督学习&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;1.1 分类
+1.2 回归&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&quot;2-无监督学习&quot;&gt;&lt;a href=&quot;#2-无监督学习&quot; class=&quot;headerlink&quot; title=&quot;2 无监督学习&quot;&gt;&lt;/a&gt;2 无监督学习&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;2.1 聚类&lt;/code&gt;&lt;/pre&gt;
     
     </summary>
     
@@ -194,25 +231,6 @@
       <category term="小说" scheme="https://erwindy.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
     
       <category term="世界设定" scheme="https://erwindy.github.io/tags/%E4%B8%96%E7%95%8C%E8%AE%BE%E5%AE%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo_first</title>
-    <link href="https://erwindy.github.io/2019/12/13/hexo-first/"/>
-    <id>https://erwindy.github.io/2019/12/13/hexo-first/</id>
-    <published>2019-12-13T08:36:00.000Z</published>
-    <updated>2019-12-16T01:37:06.000Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="学习" scheme="https://erwindy.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-      <category term="学习" scheme="https://erwindy.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
