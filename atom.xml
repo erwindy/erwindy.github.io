@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://erwindy.github.io/"/>
-  <updated>2020-01-06T03:01:37.390Z</updated>
+  <updated>2020-01-06T16:06:00.864Z</updated>
   <id>https://erwindy.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前端路由</title>
+    <link href="https://erwindy.github.io/2020/01/06/%E5%89%8D%E7%AB%AF%E8%B7%AF%E7%94%B1/"/>
+    <id>https://erwindy.github.io/2020/01/06/%E5%89%8D%E7%AB%AF%E8%B7%AF%E7%94%B1/</id>
+    <published>2020-01-06T13:43:41.000Z</published>
+    <updated>2020-01-06T16:06:00.864Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="前端" scheme="https://erwindy.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+      <category term="前端路由" scheme="https://erwindy.github.io/tags/%E5%89%8D%E7%AB%AF%E8%B7%AF%E7%94%B1/"/>
+    
+  </entry>
   
   <entry>
     <title>js二叉树中序遍历递归和非递归算法</title>
@@ -89,11 +108,12 @@
     <link href="https://erwindy.github.io/2020/01/04/vue%E7%AC%94%E8%AE%B0/"/>
     <id>https://erwindy.github.io/2020/01/04/vue%E7%AC%94%E8%AE%B0/</id>
     <published>2020-01-04T02:51:08.000Z</published>
-    <updated>2020-01-06T03:01:53.180Z</updated>
+    <updated>2020-01-06T13:37:25.126Z</updated>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;vue生命周期&quot;&gt;&lt;a href=&quot;#vue生命周期&quot; class=&quot;headerlink&quot; title=&quot;vue生命周期&quot;&gt;&lt;/a&gt;vue生命周期&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/mqingo/article/details/86031260&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://blog.csdn.net/mqingo/article/details/86031260&lt;/a&gt;&lt;/p&gt;
+      &lt;h2 id=&quot;vue面试题&quot;&gt;&lt;a href=&quot;#vue面试题&quot; class=&quot;headerlink&quot; title=&quot;vue面试题&quot;&gt;&lt;/a&gt;vue面试题&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://segmentfault.com/a/1190000016344599?utm_source=tag-newest&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://segmentfault.com/a/1190000016344599?utm_source=tag-newest&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;vue生命周期&quot;&gt;&lt;a href=&quot;#vue生命周期&quot; class=&quot;headerlink&quot; title=&quot;vue生命周期&quot;&gt;&lt;/a&gt;vue生命周期&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://blog.csdn.net/mqingo/article/details/86031260&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://blog.csdn.net/mqingo/article/details/86031260&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;组件私有样式-scoped&quot;&gt;&lt;a href=&quot;#组件私有样式-scoped&quot; class=&quot;headerlink&quot; title=&quot;组件私有样式 scoped&quot;&gt;&lt;/a&gt;组件私有样式 scoped&lt;/h2&gt;&lt;p&gt;总结一下scoped三条渲染规则&lt;/p&gt;
     
     </summary>
@@ -131,7 +151,7 @@
     <link href="https://erwindy.github.io/2020/01/01/%E5%8E%9F%E7%94%9Fhtml%E3%80%81css%E3%80%81js%E6%95%B4%E7%90%86/"/>
     <id>https://erwindy.github.io/2020/01/01/%E5%8E%9F%E7%94%9Fhtml%E3%80%81css%E3%80%81js%E6%95%B4%E7%90%86/</id>
     <published>2020-01-01T12:22:31.000Z</published>
-    <updated>2020-01-06T03:20:49.717Z</updated>
+    <updated>2020-01-06T16:05:58.226Z</updated>
     
     <summary type="html">
     
@@ -141,13 +161,13 @@
     
     
     
-      <category term="css" scheme="https://erwindy.github.io/tags/css/"/>
+      <category term="前端" scheme="https://erwindy.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
     
       <category term="js" scheme="https://erwindy.github.io/tags/js/"/>
     
-      <category term="前端" scheme="https://erwindy.github.io/tags/%E5%89%8D%E7%AB%AF/"/>
-    
       <category term="html" scheme="https://erwindy.github.io/tags/html/"/>
+    
+      <category term="css" scheme="https://erwindy.github.io/tags/css/"/>
     
   </entry>
   
@@ -183,9 +203,9 @@
     
     
     
-      <category term="es6" scheme="https://erwindy.github.io/tags/es6/"/>
-    
       <category term="js" scheme="https://erwindy.github.io/tags/js/"/>
+    
+      <category term="es6" scheme="https://erwindy.github.io/tags/es6/"/>
     
   </entry>
   
@@ -441,32 +461,6 @@
       <category term="文学" scheme="https://erwindy.github.io/tags/%E6%96%87%E5%AD%A6/"/>
     
       <category term="摘录" scheme="https://erwindy.github.io/tags/%E6%91%98%E5%BD%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>&#39;指环王世界观&#39;</title>
-    <link href="https://erwindy.github.io/2019/12/15/%E6%8C%87%E7%8E%AF%E7%8E%8B%E4%B8%96%E7%95%8C%E8%A7%82/"/>
-    <id>https://erwindy.github.io/2019/12/15/%E6%8C%87%E7%8E%AF%E7%8E%8B%E4%B8%96%E7%95%8C%E8%A7%82/</id>
-    <published>2019-12-14T17:06:49.000Z</published>
-    <updated>2019-12-16T01:25:24.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;pre&gt;&lt;code&gt;托尔金用一生的时间创造了一个世界，中土世界，那里有着山川河流，城堡矿井，雪地火山，也有着玄术魔法，神灵鬼怪，神兵利器，本是一场虚构遐想，却如此真实无妄。
-后世的奇幻作品，J.K.罗琳的魔法世界，罗伯特·乔丹的时光之轮，乔治·马丁的冰与火之歌，乃至游戏领域的魔兽争霸，无不受到中土世界的影响。&lt;/code&gt;&lt;/pre&gt;
-    
-    </summary>
-    
-    
-      <category term="小说" scheme="https://erwindy.github.io/categories/%E5%B0%8F%E8%AF%B4/"/>
-    
-      <category term="世界设定" scheme="https://erwindy.github.io/categories/%E5%B0%8F%E8%AF%B4/%E4%B8%96%E7%95%8C%E8%AE%BE%E5%AE%9A/"/>
-    
-    
-      <category term="小说" scheme="https://erwindy.github.io/tags/%E5%B0%8F%E8%AF%B4/"/>
-    
-      <category term="世界设定" scheme="https://erwindy.github.io/tags/%E4%B8%96%E7%95%8C%E8%AE%BE%E5%AE%9A/"/>
     
   </entry>
   
